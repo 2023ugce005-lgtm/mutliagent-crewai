@@ -30,7 +30,7 @@ The agents run **sequentially** — each builds on the previous agent's output t
 - **Export Options** — Download reports as `.md` or `.pdf`, or copy to clipboard
 - **Background Processing** — Reports generate asynchronously so the UI stays responsive
 
----
+----
 
 ## 🚀 Getting Started
 
